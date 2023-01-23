@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi ! I am Marko 👋
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on web3 and blockchain
 - 🌱 I’m currently learning mobile app development with web3 integration
